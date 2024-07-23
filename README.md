@@ -15,8 +15,6 @@
 - Breast Cancer Prediction
 - Parkinson's Disease Prediction
     
-    
-    ## Getting Started
 
 
 
